@@ -1,4 +1,5 @@
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/1766dcfa-28cb-4093-874e-66ac20ad7dd7" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/49808e56-b736-4d0c-a647-20a0b2842467" />
+
 
 
 # 💫 About Me:
